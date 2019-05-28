@@ -15,7 +15,7 @@ object Main extends App {
     .flatMap(toCell)
     .toSet
 
-  new PetriDish(cells).nextGeneration.cells.foreach(println)
+  new PetriDish(cells).nextGeneration.cells.toList.sorted.foreach(println)
 
   println("end")
 }
