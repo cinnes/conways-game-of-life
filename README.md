@@ -12,3 +12,7 @@ end
 
 - Progress a single generation with Conway's GoL rules.
 - Print live cells followed by `end`
+
+## Running / Testing
+
+To run: `sbt run`, to test: `sbt test`
