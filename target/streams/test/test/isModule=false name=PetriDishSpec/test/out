@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPetriDishSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPetriDish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should kill off a living cell if it has no living neighbours[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should kill off a living cell if it has 1 living neighbour[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should keep a living cell alive if it has 2 living neighbours[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should keep a living cell alive if it has 3 living neighbours[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should kill off a cell if it has 4 living neighbours[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should rebirth a dead cell with 3 living neighbours[0m[0m
