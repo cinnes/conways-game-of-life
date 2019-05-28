@@ -3,9 +3,10 @@
 - Take input starter coordinates in the following format
 
 ```
-1,2
-2,3
-3,4
+x1,y1
+x2,y2
+...
+xn,yn
 end
 ```
 
