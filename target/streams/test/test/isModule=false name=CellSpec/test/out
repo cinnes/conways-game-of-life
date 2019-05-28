@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mCellSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mCell[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should generate a list of all neighbouring cells[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should be equal to itself[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should not have itself as a neighbour[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should have 8 neighbours[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should convert properly to a string[0m[0m

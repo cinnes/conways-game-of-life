@@ -1,8 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/cinnes/Documents/Github/conways-game-of-life/src/test/scala/PetriDishSpec.scala:37:33: not enough arguments for method oneOf: (firstEle: Any, secondEle: Any, remainingEles: Any*)(implicit containing: org.scalatest.enablers.Containing[Set[Cell]])org.scalatest.Assertion.[0m
-[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters secondEle, remainingEles.[0m
-[0m[[0m[31merror[0m] [0m[0m    result.cells should contain oneOf Cell(2,2)[0m
-[0m[[0m[31merror[0m] [0m[0m                                ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/cinnes/Documents/Github/conways-game-of-life/src/test/scala/PetriDishSpec.scala:49:33: value Cell is not a member of org.scalatest.words.ResultOfContainWord[Set[Cell]][0m
-[0m[[0m[31merror[0m] [0m[0m    result.cells should contain Cell(2,2)[0m
-[0m[[0m[31merror[0m] [0m[0m                                ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
