@@ -10,7 +10,7 @@ object Main extends App {
 
   println("Enter cell coords")
 
-  val cells = Source.fromInputStream(System.in)
+  val cells = Source.stdin
     .getLines().takeWhile(_ != "end")
     .flatMap(toCell)
     .toSet
